@@ -141,14 +141,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="15828.0624" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="38" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="16660.0656" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="39" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="16660.0656" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="40" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="925859742.984078" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="927956391.048079" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="112070197.0008" gYpos="925859742.984078" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="112224421.0008" gYpos="927956391.048079" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -1210,7 +1210,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" esse arbitrātī sunt, oppida sua omnia, numerō ad duodecim, vīcōs ad quadringentōs, reliqua prīvāta aedificia incendunt; frūmentum omne, praeter quod sēcum portātūrī erant, combūrunt, ut domum reditiōnis"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" spē sublāta parātiōrēs ad omnia perīcula subeunda essent; trium mēnsum molita cibāria sibi quemque domō efferre iubent. Persuādent Rauracīs et Tulingīs et Latobrigīs fīnitimīs, utī"/>
+                <ITEXT CH=" spē sublātā parātiōrēs ad omnia perīcula subeunda essent; trium mēnsum molita cibāria sibi quemque domō efferre iubent. Persuādent Rauracīs et Tulingīs et Latobrigīs fīnitimīs, utī"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" eōdem ūsī cōnsiliō oppidīs suīs vīcīsque exustīs ūna cum iīs proficīscantur, Boiōsque, quī trāns Rhēnum incoluerant et in agrum Nōricum trānsierant Norēiamque oppugnābant, receptōs ad sē sociōs sibi adscīscunt. "/>
                 <para PARENT="Latin"/>
@@ -1846,7 +1846,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="combūrunt: they burn up; 3rd person plural present active from comburo, comburere, combusi, combustus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnantur: they attempt; infinitive"/>
+                <ITEXT CH="cōnantur: they attempt; 3rd person plural present from cōnārī, which is deponent, so the mood is active"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsiliō: plan, advice, council; singular neuter dative from consilium, consili(i)"/>
                 <para PARENT="Vocab"/>
@@ -1940,11 +1940,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praeter: more, beyond, besides, except"/>
+                <ITEXT CH="praeter: besides"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prīvāta: private; plural neuter nominative from prīvātus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="proficīscantur: they (might) set out; infinitive"/>
+                <ITEXT CH="proficīscantur: they (might) set out; 3rd person plural subjunctive present. Active mood, because proficīscī is deponent."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadringentōs: 400; plural masculine accusative from quadringentī -ae -a, quadringentesimus -a -um, quadringeni -ae -a, quadringentie (n)s"/>
                 <para PARENT="Vocab"/>
@@ -1980,7 +1980,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="subeundā: undergoing; gerundive from subīre."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sublāta: having been lifted up; singular feminine nominative perfect passive participle from tollō, tollere, sustulī, sublātus"/>
+                <ITEXT CH="sublātā: having been destroyed, taken away; singular feminine ablative perfect passive participle from tollō, tollere, sustulī, sublātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suis: their; plural dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
