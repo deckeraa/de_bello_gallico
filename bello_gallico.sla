@@ -141,14 +141,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="15828.0624" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="38" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="16660.0656" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="39" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="16660.0656" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="40" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="915027061.320075" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="925859742.984078" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="111273373.0008" gYpos="915027061.320075" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="112070197.0008" gYpos="925859742.984078" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -1204,7 +1204,15 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Post eius mortem nihilō minus Helvētiī id quod cōnstituerant facere cōnantur, ut ē fīnibus suīs exeant. Ubi iam sē ad eam rem parātōs esse arbitrātī sunt, oppida sua omnia, numerō ad duodecim, vīcōs ad quadringentōs, reliqua prīvāta aedificia incendunt; frūmentum omne, praeter quod sēcum portātūrī erant, combūrunt, ut domum reditiōnis spē sublāta parātiōrēs ad omnia perīcula subeunda essent; trium mēnsum molita cibāria sibi quemque domō efferre iubent. Persuādent Rauracīs et Tulingīs et Latobrigīs fīnitimīs, utī eōdem ūsī cōnsiliō oppidīs suīs vīcīsque exustīs ūna cum iīs proficīscantur, Boiōsque, quī trāns Rhēnum incoluerant et in agrum Nōricum trānsierant Norēiamque oppugnābant, receptōs ad sē sociōs sibi adscīscunt. "/>
+                <ITEXT CH="Post eius mortem nihilō"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" minus Helvētiī id quod cōnstituerant facere cōnantur, ut ē fīnibus suīs exeant. Ubi iam sē ad eam rem parātōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" esse arbitrātī sunt, oppida sua omnia, numerō ad duodecim, vīcōs ad quadringentōs, reliqua prīvāta aedificia incendunt; frūmentum omne, praeter quod sēcum portātūrī erant, combūrunt, ut domum reditiōnis"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" spē sublāta parātiōrēs ad omnia perīcula subeunda essent; trium mēnsum molita cibāria sibi quemque domō efferre iubent. Persuādent Rauracīs et Tulingīs et Latobrigīs fīnitimīs, utī"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" eōdem ūsī cōnsiliō oppidīs suīs vīcīsque exustīs ūna cum iīs proficīscantur, Boiōsque, quī trāns Rhēnum incoluerant et in agrum Nōricum trānsierant Norēiamque oppugnābant, receptōs ad sē sociōs sibi adscīscunt. "/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3710,6 +3718,26 @@
                 <ITEXT FEATURES="inherit superscript" CH="9"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Even that he decided his own death himself."/>
                 <ITEXT CH=" The Helvetii suspected that Orgetorix committed suicide."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="11189.8089171975" OwnPage="25" ItemID="1471852285" PTYPE="4" WIDTH="531" HEIGHT="236.636942675159" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 236.637 L0 236.637 L0 0 Z" copath="M0 0 L531 0 L531 236.637 L0 236.637 L0 0 Z" gXpos="136.0008" gYpos="11189.8089171975" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nevertheless, the Helvetii attempt to do what they had planned."/>
+                <ITEXT CH=" Suggested English-like order: nihilō minus, Hevētiī cōnantur facere id quod cōnstituerant."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Now when they decided themselves to be ready for the thing."/>
+                <ITEXT CH=" Suggested English-like order: Iam ubi arbitrāti sunt sē esse parātōs ad eam rem."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="So that, the hope of returning home having been destroyed, they might be more prepared to undergo all dangers."/>
+                <ITEXT CH=" Suggested English-like order: ut, sublāta spē domum reditiōnis, essent parātiōrēs ad subeunda omnia perīcula."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having used the same plan, with their towns and villages having been burned, that they might set out together with them."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
