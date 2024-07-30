@@ -148,14 +148,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="18324.072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="44" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="45" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="46" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="1878487598.92389" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="1962533234.17516" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="174822229.0008" gYpos="1878487598.92389" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="180198037.0008" gYpos="1962533234.17516" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -3118,7 +3118,27 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Pugnātum est ab utrīsque ācriter. Nostrī tamen, quod neque ōrdinēs servāre neque firmiter īnsistere neque signa subsequī poterant atque alius alia ex nāvī quibuscumque signīs occurrerat sē adgregābat, magnopere perturbābantur; hostēs vērō, nōtīs omnibus vadīs, ubi ex lītore aliquōs singulārēs ex nāvī ēgredientēs cōnspexerant, incitātīs equīs impedītōs adoriēbantur, plūrēs paucōs circumsistēbant, aliī ab latere apertō in ūniversōs tēla coiciēbant. Quod cum animadvertisset Caesar, scaphās longārum nāvium, item speculātōria nāvigia mīlitibus complērī iussit, et quōs labōrantēs cōnspexerat, hīs subsidia submittēbat. Nostrī, simul in āridō cōnstitērunt, suīs omnibus cōnsecūtīs, in hostēs impetum fēcērunt atque eōs in fugam dedērunt; neque longius prōsequī potuērunt, quod equitēs cursum tenēre atque īnsulam capere nōn potuerant. Hoc ūnum ad prīstinam fortūnam Caesarī dēfuit."/>
+                <ITEXT CH="Pugnātum est ab utrīsque"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" ācriter. Nostrī tamen, quod neque ōrdinēs servāre"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" neque firmiter īnsistere neque signa subsequī poterant atque alius"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" alia ex nāvī quibuscumque signīs occurrerat sē adgregābat, magnopere perturbābantur; hostēs vērō, nōtīs omnibus vadīs, ubi ex lītore aliquōs singulārēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" ex nāvī ēgredientēs cōnspexerant, incitātīs equīs impedītōs adoriēbantur"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=", plūrēs paucōs circumsistēbant, aliī ab latere apertō in ūniversōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" tēla coiciēbant. Quod cum animadvertisset Caesar, scaphās longārum nāvium, item speculātōria"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=" nāvigia mīlitibus complērī iussit, et quōs labōrantēs cōnspexerat, hīs subsidia submittēbat"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT CH=". Nostrī, simul in āridō cōnstitērunt, suīs omnibus cōnsecūtīs, in hostēs impetum fēcērunt atque eōs in fugam dedērunt; neque longius prōsequī potuērunt, quod equitēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT CH=" cursum tenēre atque īnsulam capere nōn potuerant. Hoc ūnum ad prīstinam"/>
+                <ITEXT FEATURES="inherit superscript" CH="10"/>
+                <ITEXT CH=" fortūnam Caesarī dēfuit."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3274,6 +3294,8 @@
                 <ITEXT CH="prōsequī: to escort, to pursue; infinitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pugnātum: having been fought; singular neuter nominative perfect passive participle from "/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quibuscumque: and with what"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
@@ -4491,6 +4513,42 @@
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who was carrying the eagle (standard) of the tenth legion."/>
                 <ITEXT CH=" The eagle standard was a depiction of an eagle on a long staff that was held in the air. The purpose of the standard was to allow soldiers to see where they should go. It was considered disgraceful for an legion's standard to get captured by the enemy."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="16287.5923566879" OwnPage="37" ItemID="1447274701" PTYPE="4" WIDTH="531" HEIGHT="217.681528662422" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 217.682 L0 217.682 L0 0 Z" copath="M0 0 L531 0 L531 217.682 L0 217.682 L0 0 Z" gXpos="136.0008" gYpos="16287.5923566879" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="There was heavy combat from both sides."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because we could neither maintain our battlelines nor stand firmly (because they weren't on dry ground, nor follow the standards."/>
+                <ITEXT CH=" The process of soldiers securing the beachhead was very chaotic."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And one (from one ship) and one (from another ship) had run to whatever standard (they had first seen) and were grouping themselves."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When they had observed anyone coming one-by-one out of the boats."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They, having incitated (their horses), were attacking the (soldiers who were) impeded (because they were busing trying to climb out of a boat onto the beach)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Others were throwing spears into everyone from our open flank."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The skiffs of the long boats, also the ships for spying/scouting he ordered to be filled with soldiers."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He was sending aid to them."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT CH="The boat with the horses wasn't able to hold it's course."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="10"/>
+                <ITEXT CH="Note the propaganda: Caesar slips in a little statement about how his military operations typically went without any issues."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
