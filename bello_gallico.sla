@@ -148,14 +148,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="18324.072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="44" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="45" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="46" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="1421747794.23876" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="1575831458.86607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="145607797.0008" gYpos="1421747794.23876" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="155463445.0008" gYpos="1575831458.86607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -2056,12 +2056,26 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="12554.9140585987" OwnPage="29" ItemID="1438272509" PTYPE="4" WIDTH="531" HEIGHT="562.24203821656" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 562.242 L0 562.242 L0 0 Z" copath="M0 0 L531 0 L531 562.242 L0 562.242 L0 0 Z" gXpos="136.0008" gYpos="12554.9140585987" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="12554.9140585987" OwnPage="29" ItemID="1438272509" PTYPE="4" WIDTH="531" HEIGHT="295.022247133787" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 295.022 L0 295.022 L0 0 Z" copath="M0 0 L531 0 L531 295.022 L0 295.022 L0 0 Z" gXpos="136.0008" gYpos="12554.9140585987" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Caesarī cum id nūntiātum esset, eōs per prōvinciam nostram iter facere cōnārī, mātūrat ab urbe proficīscī et quam maximīs potest itineribus in Galliam ulteriōrem contendit et ad Genāvam pervēnit. Prōvinciae tōtī quam maximum potest mīlitum numerum imperat (erat omnīnō in Galliā ulteriōre legiō ūna), pontem, quī erat ad Genāvam, iubet rescindī. Ubi dē eius adventū Helvētiī certiōrēs factī sunt, lēgātōs ad eum mittunt nōbilissimōs cīvitātis, cuius lēgātiōnis Nammēius et Verucloetius prīncipem locum obtinēbant, quī dīcerent sibi esse in animō sine ūllō maleficiō iter per prōvinciam facere, proptereā quod aliud iter habērent nūllum: rogāre ut eius voluntāte id sibi facere liceat."/>
+                <ITEXT CH="Caesarī cum id nūntiātum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" esset, eōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" per prōvinciam nostram iter facere cōnārī, mātūrat"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" ab urbe proficīscī et quam"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" maximīs potest itineribus in Galliam ulteriōrem contendit et ad Genāvam pervēnit. Prōvinciae"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" tōtī quam maximum potest mīlitum numerum imperat (erat omnīnō in Galliā ulteriōre legiō ūna), pontem, quī erat ad Genāvam, iubet rescindī. Ubi dē eius adventū Helvētiī certiōrēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" factī sunt, lēgātōs ad eum mittunt nōbilissimōs cīvitātis, cuius lēgātiōnis Nammēius et Verucloetius prīncipem locum obtinēbant, quī dīcerent7 sibi esse in animō sine ūllō maleficiō iter per prōvinciam facere, proptereā quod aliud iter habērent nūllum: rogāre ut eius voluntāte"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT CH=" id sibi facere liceat."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2403,13 +2417,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="potest: he can; 3rd person singular present active from possum, posse, potuī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prīncipem: first man, prince; singular masculine accusative from prīnceps, prīncipis"/>
+                <ITEXT CH="prīncipem: first, principal; singular masculine accusative from prīnceps, prīncipis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="proficīscī: to set out; infinitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="proptereā: because of, that's why"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prōvinciae: province, command; singular feminine genitive from prōvincia, prōvinciae"/>
+                <ITEXT CH="prōvinciae: province, command; singular feminine dative from prōvincia, prōvinciae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prōvinciam: province, command; singular feminine accusative from prōvincia, prōvinciae"/>
                 <para PARENT="Vocab"/>
@@ -2419,7 +2433,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rescindī: to be rescinded, cut out;  person  present passive from rescindō, rescindere, rescidī, rescissus"/>
+                <ITEXT CH="rescindī: to be rescinded, cut out; passive infinitive from rescindō, rescindere, rescidī, rescissus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rogāre: to ask;  person  present active from rogō, rogāre, rogāvī, rogātus"/>
                 <para PARENT="Vocab"/>
@@ -2427,7 +2441,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sine: without"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tōtī: whole, total; singular  dative from tōtus, tōta, tōtum (gen -ius)"/>
+                <ITEXT CH="tōtī: whole, total; singular feminine dative from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ubī: where, when if"/>
                 <para PARENT="Vocab"/>
@@ -4338,6 +4352,40 @@
                 <ITEXT CH=" The date was March 28"/>
                 <ITEXT FEATURES="inherit superscript" CH="th"/>
                 <ITEXT CH=", 58 BC. Romans counted days inclusively, and the kalends was the first day of the month, so the five days before the kalends: April 1, March 31, March 30, March 29, March 28."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="12849.9363057325" OwnPage="29" ItemID="1504383773" PTYPE="4" WIDTH="531" HEIGHT="227.464968152866" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 227.465 L0 227.465 L0 0 Z" copath="M0 0 L531 0 L531 227.465 L0 227.465 L0 0 Z" gXpos="136.0008" gYpos="12849.9363057325" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="With this being announced to Caesar."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That they were trying to journey through our province"/>
+                <ITEXT CH=". eōs is in the accusative and cōnārī is an infinitive because this clause is an indirect statement: it's telling indirectly what was announced to Caesar, and therefore it follows the pattern of an indirect statement (see Wheelock's Caput XXV)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He hastens to set out from the city."/>
+                <ITEXT CH=" English-like order: mātūrat proficīscī ab urbe."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And, with as great marches as he can, he hastens into Further Gaul and comes to Geneva"/>
+                <ITEXT CH=". For usage of quam with a superlative, see Wheelock's Caput XXVI, p. 212."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He commands the whole province (to provide) as many solides as it can"/>
+                <ITEXT CH=". Prōvinciae and tōtī are singular dative because imperāre uses the dative to indicate whom is receiving the command."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When the Helvetii were made certain/aware of his arrival."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Who (the ambassadors) were to say to him (Caesar) that they were, in a spirit without any maleficence, (trying) to take a trip through the province."/>
+                <ITEXT CH=" esse is in the infinitive because this is an indirect statement."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="(The ambassadors were) to ask if it would be allowed to be done by/with his will."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
