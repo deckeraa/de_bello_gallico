@@ -148,14 +148,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="18324.072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="44" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="45" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="46" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="1600631810.25169" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="1819931213.70785" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="157049749.0008" gYpos="1600631810.25169" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="171076789.0008" gYpos="1819931213.70785" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -2611,20 +2611,31 @@
         <PAGEOBJECT XPOS="136.0008" YPOS="14200.056" OwnPage="33" ItemID="1450203901" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" gXpos="136.0008" gYpos="14200.056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="#5 Orīginālis"/>
+                <ITEXT CH="#5 Orīginālis Liber 4:24-25"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="14219.6274343949" OwnPage="33" ItemID="1450189469" PTYPE="4" WIDTH="531" HEIGHT="448.428565605092" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 448.429 L0 448.429 L0 0 Z" copath="M0 0 L531 0 L531 448.429 L0 448.429 L0 0 Z" gXpos="136.0008" gYpos="14219.6274343949" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="14219.6274343949" OwnPage="33" ItemID="1450189469" PTYPE="4" WIDTH="531" HEIGHT="382.767470063704" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 382.767 L0 382.767 L0 0 Z" copath="M0 0 L531 0 L531 382.767 L0 382.767 L0 0 Z" gXpos="136.0008" gYpos="14219.6274343949" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <para/>
-                <ITEXT CH="#5 Orīginālis"/>
+                <ITEXT CH="#5 Orīginālis: Liber 4:24-25"/>
+                <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="At barbarī, cōnsiliō Rōmānōrum cognitō praemissō equitātū et essedariīs, quō plērumque genere in proeliīs ūtī cōnsuērunt, reliquīs cōpiīs subsecūtī nostrōs nāvibus ēgredī prohibēbant. Erat ob hās causās summa difficultās, quod nāvēs propter magnitūdinem nisi in altō cōnstituī nōn poterant, mīlitibus autem, ignōtīs locīs, impedītīs manibus, magnō et gravī onere armōrum oppressīs simul et dē nāvibus dēsiliendum et in auctibus cōnsistendum et cum hostibus erat pugnandum, cum illī aut ex āridō aut paulum in aquam prōgressī omnibus membrīs expedītīs, nōtissimīs locīs, audācter tēla coicerent et equōs īnsuēfactōs incitārent. Quibus rēbus nostrī perterritī atque huius omnīnō generis pugnae imperītī, nōn eādem alacritāte ac studiō quō in pedestribus utī proeliīs cōnsuērant ūtēbantur."/>
+                <ITEXT CH="At barbarī, cōnsiliō Rōmānōrum cognitō"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" praemissō equitātū et essedariīs, quō plērumque genere in proeliīs ūtī cōnsuērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=", reliquīs cōpiīs subsecūtī nostrōs nāvibus ēgredī prohibēbant. Erat ob hās causās summa difficultās, quod nāvēs propter magnitūdinem nisi"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" in altō cōnstituī nōn poterant, mīlitibus autem, ignōtīs locīs, impedītīs manibus, magnō et gravī onere armōrum oppressīs simul et dē nāvibus dēsiliendum"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" et in auctibus cōnsistendum et cum hostibus erat pugnandum, cum illī aut ex āridō aut paulum in aquam prōgressī omnibus membrīs expedītīs, nōtissimīs locīs, audācter tēla coicerent et equōs īnsuēfactōs incitārent. Quibus rēbus nostrī perterritī atque huius omnīnō generis pugnae imperītī, nōn eādem alacritāte ac studiō quō in pedestribus utī proeliīs cōnsuērant ūtēbantur"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH="."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2635,7 +2646,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="alacritāte: cheerfulness, liveliness; singular feminine  from alacritās, alacritātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="altō: height; singular masculine dative perfect passive participle from alo, alere, alui, altus"/>
+                <ITEXT CH="altō: deep; singular masculine ablative from altus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aquam: water; singular feminine accusative from aqua, aquae"/>
                 <para PARENT="Vocab"/>
@@ -2653,7 +2664,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aut: or"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="autem: but, however, moreover"/>
+                <ITEXT CH="autem: and"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="barbarī: barbarian; singular masculine genitive from barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -2667,7 +2678,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsistendum: taking a position, standing together; singular neuter nominative future passive participle from cōnsistō, cōnsistere, cōnstitī, cōnstitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnstituī: I planned;  person  present passive from cōnstituō, cōnstituere, cōnstituī, cōnstitūtus"/>
+                <ITEXT CH="cōnstituī: to be stood; passive infinitive from cōnstituō, cōnstituere, cōnstituī, cōnstitūtus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="consuērunt: they were familiar with; syncopated (vē drops out) 3rd person plural perfect active from consuēscō, consuēscere, consuēvī, consuētus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="consuēverant: they had familiarized; 3rd person plural pluperfect active from consuēscō, consuēscere, consuēvī, consuētus"/>
                 <para PARENT="Vocab"/>
@@ -2687,7 +2700,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēgredī: to go out, to egress; infinitive"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="equitātū: cavalry; singular neuter ablative from equitō, equitāre, equitāvī, equitātus"/>
+                <ITEXT CH="equitātū: cavalry; singular masculine ablative from equitātus, equitātūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="equōs: horses; plural masculine accusative from equus, equī"/>
                 <para PARENT="Vocab"/>
@@ -2751,7 +2764,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nostrōs: our"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōtissimīs: very well known; plural  dative from nōtus, nōta -um, nōtior -or -us, nōtissimus -a -um"/>
+                <ITEXT CH="nōtissimīs: very well known; plural ablative from nōtus, nōta -um, nōtior -or -us, nōtissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ob: for, because of, towards"/>
                 <para PARENT="Vocab"/>
@@ -2773,7 +2786,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="poterant: they were able to; 3rd person plural imperfect active from possum, posse, potuī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praemissō: having been sent ahead; singular masculine dative perfect passive participle from praemittō, praemittere, praemīsī, praemissus"/>
+                <ITEXT CH="praemissō: having been sent ahead; singular masculine ablative perfect passive participle from praemittō, praemittere, praemīsī, praemissus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="proeliīs: battles, conflicts; plural neuter  from proelium, proeli(i)"/>
                 <para PARENT="Vocab"/>
@@ -3059,7 +3072,7 @@
         <PAGEOBJECT XPOS="136.0008" YPOS="15032.0592" OwnPage="35" ItemID="1460107757" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" gXpos="136.0008" gYpos="15032.0592" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="#5 Orīginālis"/>
+                <ITEXT CH="#5 Orīginālis Liber 4:24-25"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4422,6 +4435,31 @@
                 <ITEXT FEATURES="inherit superscript" CH="th"/>
                 <ITEXT CH="."/>
                 <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="14604.2292993631" OwnPage="33" ItemID="1490391917" PTYPE="4" WIDTH="531" HEIGHT="146.140127388535" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 146.14 L0 146.14 L0 0 Z" copath="M0 0 L531 0 L531 146.14 L0 146.14 L0 0 Z" gXpos="136.0008" gYpos="14604.2292993631" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The plan of the Romans being recognized, and the cavalry and charioteers having been sent ahead"/>
+                <ITEXT CH=". praemissō is singular ablative because it matches with equitātū, which is singular ablative."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And of which type (of soldier) they were accustomed to use in battle most of the time."/>
+                <ITEXT CH=" Note that quō is in the ablative, continuing the long string of ablative absolutes being used in this sentence."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because the ships, because of their size, could not be stood except in deep water."/>
+                <ITEXT CH=" cōnstituere here is used as a nautical term. The ships were too big to go into the shallow areas."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="At the same time they were to leap from the ship, stand in the waves, and to fight with the enemy."/>
+                <ITEXT CH=" Here the gerundive is used in places where in English and in the Romance languages you might expect to use an infinitive."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which on foot we were accustomed to use in battle."/>
+                <ITEXT CH=" The Roman soliders don't fight as bravely as they normally do because they aren't on dry land."/>
+                <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
