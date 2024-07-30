@@ -148,14 +148,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="18324.072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="44" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="45" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="46" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="1962533234.17516" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="2123046619.53207" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="180198037.0008" gYpos="1962533234.17516" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="190464949.0008" gYpos="2123046619.53207" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -3345,12 +3345,18 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="16714.4045044586" OwnPage="39" ItemID="1518614365" PTYPE="4" WIDTH="531" HEIGHT="393.477707006368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 393.478 L0 393.478 L0 0 Z" copath="M0 0 L531 0 L531 393.478 L0 393.478 L0 0 Z" gXpos="136.0008" gYpos="16714.4045044586" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="16714.4045044586" OwnPage="39" ItemID="1518614365" PTYPE="4" WIDTH="531" HEIGHT="379.710145222929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 379.71 L0 379.71 L0 0 Z" copath="M0 0 L531 0 L531 379.71 L0 379.71 L0 0 Z" gXpos="136.0008" gYpos="16714.4045044586" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Hostēs proeliō superātī, simul atque sē ex fugā recēpērunt, statim ad Caesarem lēgātōs dē pāce mīsērunt; obsidēs sēsē datūrōs quaeque imperāsset factūrōs pollicitī sunt. Ūna cum hīs lēgātīs Commius Atrebās venit, quem suprā dēmōnstrāveram ā Caesare in Britanniam praemissum. Hunc illī ē nāvī ēgressum, cum ad eōs ōrātōris modō Caesaris mandāta dēferret, comprehenderant atque in vincula coniēcerant; tum proeliō factō remīsērunt et in petendā pāce eius reī culpam in multitūdinem contulērunt et propter imprūdentiam ut ignōscerētur petīvērunt. Caesar questus quod, cum ultrō in continentem lēgātīs missīs pācem ab sē petīssent, bellum sine causā intulissent, ignōscere sē imprūdentiae dīxit obsidēsque imperāvit; quōrum illī partem statim dedērunt, partem ex longinquiōribus locīs arcessītam paucīs diēbus sēsē datūrōs dīxērunt. Intereā suōs in agrōs remigrāre iussērunt, prīncipēsque undique convenīre et sē cīvitātēsque suās Caesarī commendāre coepērunt. "/>
+                <ITEXT CH="Hostēs proeliō superātī, simul atque sē ex fugā recēpērunt, statim ad Caesarem lēgātōs dē pāce mīsērunt; obsidēs sēsē datūrōs quaeque"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" imperāsset factūrōs pollicitī sunt. Ūna cum hīs lēgātīs Commius Atrebās venit, quem suprā"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" dēmōnstrāveram ā Caesare in Britanniam praemissum. Hunc illī ē nāvī ēgressum, cum ad eōs ōrātōris"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" modō Caesaris mandāta dēferret, comprehenderant atque in vincula coniēcerant; tum proeliō factō remīsērunt et in petendā pāce eius reī culpam in multitūdinem contulērunt et propter imprūdentiam ut ignōscerētur petīvērunt. Caesar questus quod, cum ultrō in continentem lēgātīs missīs pācem ab sē petīssent, bellum sine causā intulissent, ignōscere sē imprūdentiae dīxit obsidēsque imperāvit; quōrum illī partem statim dedērunt, partem ex longinquiōribus locīs arcessītam paucīs diēbus sēsē datūrōs dīxērunt. Intereā suōs in agrōs remigrāre iussērunt, prīncipēsque undique convenīre et sē cīvitātēsque suās Caesarī commendāre coepērunt. "/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3493,7 +3499,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="obsidēs: hostages; 2nd person singular present active from obsideo, obsidere, obsedi, obsessus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōrātōris: speaker; singular masculine genitive from ōrātor, ōrātōris"/>
+                <ITEXT CH="ōrātōris: ambassador, speaker; singular masculine genitive from ōrātor, ōrātōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pāce: peace; singular feminine  from pāx, pācis"/>
                 <para PARENT="Vocab"/>
@@ -3509,7 +3515,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="petīvissent: they (might) have had asked; 3rd person plural pluperfect active subjunctive from petō, petere, petīvī, petītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pollicitī: having been promised; singular masculine genitive perfect participle from pollicit.i"/>
+                <ITEXT CH="pollicitī: having been promised; singular masculine genitive perfect participle from polliceor, pollicērī, pollicitum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praemissum: having been sent ahead; singular neuter nominative perfect passive participle from praemiss.um"/>
                 <para PARENT="Vocab"/>
@@ -3529,7 +3535,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quōrum: of whom; plural masc or neut. genitive of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="recēpērunt: they received, they kept back; 3rd person plural perfect active from recipiō, recipere, recēpī, receptus"/>
+                <ITEXT CH="recēpērunt: they regrouped; 3rd person plural perfect active from recipiō, recipere, recēpī, receptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reī: thing; singular feminine genitive from rēs, reī"/>
                 <para PARENT="Vocab"/>
@@ -3539,9 +3545,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="se: himself"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēsē: himself"/>
+                <ITEXT CH="sēsē: to him (accusative case, this is a modified version of sē)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="simul: at the same time as"/>
+                <ITEXT CH="simul: as soon as"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sine: without"/>
                 <para PARENT="Vocab"/>
@@ -4549,6 +4555,22 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="10"/>
                 <ITEXT CH="Note the propaganda: Caesar slips in a little statement about how his military operations typically went without any issues."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="17094.7261146497" OwnPage="39" ItemID="1524513293" PTYPE="4" WIDTH="531" HEIGHT="214.012738853504" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 214.013 L0 214.013 L0 0 Z" copath="M0 0 L531 0 L531 214.013 L0 214.013 L0 0 Z" gXpos="136.0008" gYpos="17094.7261146497" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They promised hostages to be given to him and whatever he might command to be done"/>
+                <ITEXT CH=". Note the use of future participles (datūrōs and factūrōs) and the past passive participle construction pollicitī + sunt."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Whom I have mentioned above, having been sent by Caesar into Britain."/>
+                <ITEXT CH=" Here Caesar refers to himself in both the first and third person."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="This having gotten out of the ship to them, carrying in the mode of ambassador the commands of Caesar to them."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
