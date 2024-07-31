@@ -148,14 +148,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="18324.072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="44" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="45" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="46" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="2131313403.32728" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="2281952574.70687" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="190993717.0008" gYpos="2131313403.32728" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="200629045.0008" gYpos="2281952574.70687" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -3859,7 +3859,21 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Hīs rēbus pāce cōnfirmātā, post diem quārtum quam est in Britanniam ventum nāvēs XVIII, dē quibus suprā dēmōnstrātum est, quae equitēs sustulerant, ex superiōre portū lēnī ventō solvērunt. Quae cum adpropinquārent Britanniae et ex castrīs vidērentur, tanta tempestās subitō coorta est ut nūlla eārum cursum tenēre posset, sed aliae eōdem unde erant profectae referrentur, aliae ad īnferiōrem partem īnsulae, quae est propius sōlis occāsum, magnō suō cum perīculō dēicerentur; quae tamen ancorīs iactīs cum flūctibus complērentur, necessāriō adversā nocte in altum prōvectae continentem petiērunt."/>
+                <ITEXT CH="Hīs rēbus pāce"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" cōnfirmātā, post diem quārtum quam"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" est in Britanniam ventum nāvēs XVIII, dē quibus suprā dēmōnstrātum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" est, quae equitēs sustulerant, ex superiōre portū lēnī ventō solvērunt. Quae cum adpropinquārent Britanniae et ex castrīs vidērentur, tanta tempestās subitō coorta est ut nūlla eārum cursum tenēre posset, sed aliae eōdem unde erant"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" profectae referrentur, aliae ad īnferiōrem partem īnsulae, quae est propius sōlis occāsum"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=", magnō suō cum perīculō dēicerentur; quae tamen ancorīs iactīs cum flūctibus complērentur"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=", necessāriō"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=" adversā nocte in altum prōvectae continentem petiērunt."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3950,7 +3964,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="perīculō: danger; singular neuter dative from perīculum, perīculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="petīvērunt: they asked for; 3rd person plural perfect active from petō, petere, petīvī, petītus"/>
+                <ITEXT CH="petīērunt: they sought; 3rd person plural perfect active from petō, petere, petīvī, petītus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="portū: harbor, port; singular masculine ablative from portus, portūs"/>
                 <para PARENT="Vocab"/>
@@ -3974,13 +3988,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēbus: things; plural feminine dative from rēs, reī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="referrentur: they (might) be being reported; 3rd person plural imperfect passive subjunctive from referō, referre, rettulī, relātus"/>
+                <ITEXT CH="referrentur: they (might) be returning; 3rd person plural imperfect passive subjunctive from referō, referre, rettulī, relātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sōlis: sun; singular masculine genitive from sōl, sōlis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="solvērunt: they loosened, they paid; 3rd person plural perfect active from solvō, solvere, solvī, solūtus"/>
+                <ITEXT CH="solvērunt: they set sail; 3rd person plural perfect active from solvō, solvere, solvī, solūtus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="subitō: suddenly"/>
                 <para PARENT="Vocab"/>
@@ -4004,9 +4018,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventō: wind; singular masculine dative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventō: wind; singular masculine ablative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventum: wind; singular neuter nominative perfect passive participle from vent.um"/>
+                <ITEXT CH="ventum: having come; singular masculine accusative past passive participle from venīre"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidērentur: he (may) have appeared; 3rd person plural imperfect passive subjunctive from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -4587,6 +4601,37 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="They said part (of the hostages) having been summoned out of far-way places would be given to him in a few days."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="17857.2229299363" OwnPage="41" ItemID="1513203453" PTYPE="4" WIDTH="531" HEIGHT="189.554140127391" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 189.554 L0 189.554 L0 0 Z" copath="M0 0 L531 0 L531 189.554 L0 189.554 L0 0 Z" gXpos="136.0008" gYpos="17857.2229299363" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Peace having been confirmed by these things."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="After the fourth day upon which we came into Britain"/>
+                <ITEXT CH=". ventum + est is a past passive participle construction. Here ventum is from venīre, not from ventus (also ventō from ventus is used later in this sentence)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which have been mentioned above"/>
+                <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Others were returning to the same place where they had set out."/>
+                <ITEXT CH=" profectae + erant is a past passive participle construction that results in the pluperfect. refferntur is in the subjunctive because it's part of an ut clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which is nearer the setting of the sun."/>
+                <ITEXT CH=" This means the western portion of the island."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which, however, having set anchor were being filled with waves/water."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having set out by necessity on an adverse night in high (seas), they had sought the continent."/>
+                <ITEXT CH=" They were trying to sail back to Gaul through a stormy night."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
