@@ -148,14 +148,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="18324.072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="44" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="45" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="19156.0752" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="46" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="2281952574.70687" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="2336834833.79182" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="200629045.0008" gYpos="2281952574.70687" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="204139477.0008" gYpos="2336834833.79182" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -4046,7 +4046,19 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="    Eādem nocte accidit ut esset lūna plēna, quī diēs ā maritimōs aestūs maximōs in Ōceanō efficere cōnsuēvit, nostrīsque id erat incognitum. Ita ūnō tempore et longās nāvēs, [quibus Caesar exercitum trānsportandum cūrāverat,] quās Caesar in āridum subdūxerat, aestus complēbat, et onerāriās, quae ad ancorās erant dēligātae, tempestās adflīctābat, neque ūlla nostrīs facultās aut administrandī aut auxiliandī dabātur. Complūribus nāvibus frāctīs, reliquae cum essent fūnibus, ancorīs reliquīsque armāmentīs āmissīs ad nāvigandum inūtilēs, magna, id quod necesse erat accidere, tōtīus exercitūs perturbātiō facta est. Neque enim nāvēs erant aliae quibus reportārī possent, et omnia dēerant quae ad reficiendās nāvēs erant ūsuī, et, quod omnibus cōnstābat hiemārī in Galliā oportēre, frūmentum in hīs locīs in hiemem prōvīsum nōn erat."/>
+                <ITEXT CH="    Eādem nocte accidit ut esset lūna plēna, quī diēs ā maritimōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" aestūs maximōs in Ōceanō efficere cōnsuēvit, nostrīsque id erat incognitum. Ita ūnō tempore et longās nāvēs, [quibus Caesar exercitum trānsportandum cūrāverat,] quās Caesar in āridum subdūxerat, aestus complēbat, et onerāriās"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=", quae ad ancorās erant dēligātae, tempestās adflīctābat, neque ūlla nostrīs facultās"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" aut administrandī aut auxiliandī dabātur. Complūribus"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" nāvibus frāctīs, reliquae cum essent fūnibus, ancorīs reliquīsque armāmentīs āmissīs ad nāvigandum inūtilēs, magna, id quod necesse erat accidere, tōtīus exercitūs perturbātiō facta est. Neque enim nāvēs erant aliae quibus reportārī possent, et omnia dēerant"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" quae ad reficiendās nāvēs erant ūsuī, et, quod omnibus cōnstābat hiemārī in Galliā oportēre"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=", frūmentum in hīs locīs in hiemem prōvīsum nōn erat."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4065,7 +4077,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="administrandī: attending to; singular masculine genitive future passive participle from administrō, administrāre, administrāvī, administrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aestus: heat; singular masculine nominative from aestus, aestūs"/>
+                <ITEXT CH="aestus: tide; singular masculine nominative from aestus, aestūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliae: other; plural feminine nominative from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
@@ -4085,11 +4097,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="caesar: Caesar; singular masculine nominative from Caesar, Caesaris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="complēbat: he will fill up; 3rd person singular imperfect active from compleō, complēre, complēvī, complētus"/>
+                <ITEXT CH="complēbat: was filling up; 3rd person singular imperfect active from compleō, complēre, complēvī, complētus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="complūribus: many, several persons; plural  dative from complūs, (gen.), complūris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnstābat: he was remaining, standing still; 3rd person singular imperfect active from cōnstō, cōnstāre, cōnstitī, cōnstātus"/>
+                <ITEXT CH="cōnstābat: it was certain, it was assumed 3rd person singular imperfect active from cōnstō, cōnstāre, cōnstitī, cōnstātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="consuēvit: he familiarized; 3rd person singular perfect active from consuēscō, consuēscere, consuēvī, consuētus"/>
                 <para PARENT="Vocab"/>
@@ -4632,6 +4644,33 @@
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having set out by necessity on an adverse night in high (seas), they had sought the continent."/>
                 <ITEXT CH=" They were trying to sail back to Gaul through a stormy night."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="18730.3949044586" OwnPage="43" ItemID="1502031277" PTYPE="4" WIDTH="531" HEIGHT="185.885350318473" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 185.885 L0 185.885 L0 0 Z" copath="M0 0 L531 0 L531 185.885 L0 185.885 L0 0 Z" gXpos="136.0008" gYpos="18730.3949044586" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="Which day (meaning the day of the full moon) tends to effect great tides in that ocean."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And the ships of burden."/>
+                <ITEXT CH=" onerāriās is used as shorthand for the transport ships. The transport ships were anchored too close together and were being dashed against one another by the storm."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Neither was another means given to us of either controlling or helping."/>
+                <ITEXT CH=" They lacked a means by which to control or preserve the ships from the weather. Note the use of the genitive gerunds administrandī and auxiliandī. ūlla and facultās go together because they are both singular feminine nominative."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Several ships having been broken up, and the rest having lost ropes, anchors, and other equipment so as to be unusable for sailing"/>
+                <ITEXT CH=". āmissīs + essent is a past passive participle construction. essent is in the subjunctive because it is in a cum causal clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And all things were missing which were of use for the repairing the ships"/>
+                <ITEXT CH=". erant + ūsuī is a past passive participle construction that has an active meaning because ūtī is deponent. Note the gerundive reficiendās."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And because it was certain to everyone that they must winter in Gaul."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
