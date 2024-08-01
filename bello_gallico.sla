@@ -154,14 +154,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="20820.0816" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="50" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="21652.0848" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="51" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="21652.0848" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="52" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="3554251036.14562" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="3643029105.59855" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="273351169.0008" gYpos="3554251036.14562" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="278374465.0008" gYpos="3643029105.59855" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -4892,7 +4892,13 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Dum ea geruntur, legiōne ex cōnsuētūdine ūnā frūmentātum missa, quae appellābātur VĪĪ, neque ūlla ad id tempus bellī suspīciōne interpositā, cum pars hominum in agrīs remanēret, pars etiam in castra ventitāret, iī quī prō portīs castrōrum in statiōne erant Caesarī nūntiāvērunt pulverem maiōrem quam cōnsuētūdō ferret in eā parte vidērī quam in partem legiō iter fēcisset. Caesar id quod erat suspicātus aliquid novī ā barbarīs initum cōnsiliī, cohortēs quae in statiōne erant sēcum in eam partem proficīscī, ex reliquīs duās in statiōnem succēdere, reliquās armārī et cōnfestim sēsē subsequī iussit. Cum paulō longius ā castrīs prōcessisset, suōs ab hostibus premī atque aegrē sustinēre et cōnfertā legiōne ex omnibus partibus tēla coicī animadvertit. Nam quod omnī ex reliquīs partibus dēmessō frūmentō pars ūna erat reliqua, suspicātī hostēs hūc nostrōs esse ventūrōs noctū in silvīs dēlituerant; tum dispersōs dēpositīs armīs in metendō occupātōs subitō adortī paucīs interfectīs reliquōs incertīs ōrdinibus perturbāverant, simul equitātū atque essedīs circumdederant."/>
+                <ITEXT CH="Dum ea geruntur, legiōne ex cōnsuētūdine ūnā frūmentātum missa, quae appellābātur"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" VĪĪ, neque ūlla ad id tempus bellī suspīciōne interpositā, cum pars hominum in agrīs remanēret, pars etiam in castra ventitāret, iī quī prō portīs castrōrum in statiōne erant Caesarī nūntiāvērunt pulverem"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" maiōrem quam cōnsuētūdō ferret in eā parte vidērī quam in partem legiō iter fēcisset. Caesar id quod erat suspicātus aliquid novī"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" ā barbarīs initum cōnsiliī, cohortēs quae in statiōne erant sēcum in eam partem proficīscī, ex reliquīs duās in statiōnem succēdere, reliquās armārī et cōnfestim sēsē subsequī iussit. Cum paulō longius ā castrīs prōcessisset, suōs ab hostibus premī atque aegrē sustinēre et cōnfertā legiōne ex omnibus partibus tēla coicī animadvertit. Nam quod omnī ex reliquīs partibus dēmessō frūmentō pars ūna erat reliqua, suspicātī hostēs hūc nostrōs esse ventūrōs noctū in silvīs dēlituerant; tum dispersōs dēpositīs armīs in metendō occupātōs subitō adortī paucīs interfectīs reliquōs incertīs ōrdinibus perturbāverant, simul equitātū atque essedīs circumdederant."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4907,7 +4913,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="adortī: having been attacked; singular masculine genitive perfect participle from adorior, adoriri, adortus sum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aegrē: sickly"/>
+                <ITEXT CH="aegrē: scarcely"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="agrīs: fields; pl. masc.  from ager, agrī"/>
                 <para PARENT="Vocab"/>
@@ -4949,7 +4955,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsiliī: of plans, of advice, of councils; sing. neut. gen. from consilium, consili(i)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsuētūdine: habit, custom; sing. fem.  from cōnsuētūdō, cōnsuētūdinis"/>
+                <ITEXT CH="cōnsuētūdine: habit, custom; sing. fem. abl. from cōnsuētūdō, cōnsuētūdinis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsuētūdō: habit, custom; sing. fem. nom. from cōnsuētūdō, cōnsuētūdinis"/>
                 <para PARENT="Vocab"/>
@@ -5424,6 +5430,23 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="By means of their material and copper he was using for the repair of the rest (of the ships)."/>
                 <ITEXT CH=" Note the use of the gerundive reficiendās. The instrumental ablative is used for māteriā and aere."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="21288.0816" OwnPage="49" ItemID="1595307085" PTYPE="4" WIDTH="531" HEIGHT="99.7400560509668" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 99.7401 L0 99.7401 L0 0 Z" copath="M0 0 L531 0 L531 99.7401 L0 99.7401 L0 0 Z" gXpos="136.0008" gYpos="21288.0816" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which was called the seventh."/>
+                <ITEXT CH=" This was either the seventh legion, or a smaller unit whose unit number was seven was sent out."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Those who were in (their) stations before the gates of the fort announced to Caesar a larger cloud of dust than was normally reported appearred in that part in which part of the legion had taken a trip."/>
+                <ITEXT CH=" The larger-than-normal dust cloud indicated to them that more action was occurring than just foraging. "/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Something new"/>
+                <ITEXT CH=". novī is in the partitive genitive. Some translations appear to interpret novī as being from nōscere."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
