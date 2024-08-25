@@ -170,14 +170,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="27476.1072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="66" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="28308.1104" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="67" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="28308.1104" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="68" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="5006084972.10238" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1398696189" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="5273407600.26253" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="347530465.0008" gYpos="5006084972.10238" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1398673293" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="359097265.0008" gYpos="5273407600.26253" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -5876,7 +5876,13 @@
                 <ITEXT CH="Caesar Defeats the Britons"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="Quibus rēbus perturbātīs nostrīs [novitāte pugnae] tempore oportunissīmō Caesar auxilium tulit: namque eius adventū hostēs cōnstitērunt, nostrī sē ex timōre recēpērunt. Quō factō, ad lacessendum hostem et committendum proelium aliēnum esse tempus arbitrātūs suō sē locō continuit et brevī tempore intermissō in castra legiōnēs redūxit. Dum haec geruntur, nostrīs omnibus occupātīs quī erant in agrīs reliquī discessērunt. Secūtae sunt continuōs complūrēs diēs tempestātēs, quae et nostrōs in castrīs continērent et hostem ā pugnā prohibērent. Interim barbarī nūntiōs in omnēs partēs dīmīsērunt paucitātemque nostrōrum mīlitum suīs praedicāvērunt et quantā praedae faciendae atque in perpetuum suī līberandī facultās darētur, sī Rōmānōs castrīs expulissent, dēmōnstrāvērunt. Hīs rēbus celeriter magnā multitūdine peditātus equitātusque coācta ad castra vēnērunt."/>
+                <ITEXT CH="Quibus rēbus perturbātīs nostrīs novitāte pugnae"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" tempore oportunissīmō Caesar auxilium tulit: namque eius adventū hostēs cōnstitērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=", nostrī sē ex timōre recēpērunt. Quō factō, ad lacessendum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" hostem et committendum proelium aliēnum esse tempus arbitrātūs suō sē locō continuit et brevī tempore intermissō in castra legiōnēs redūxit. Dum haec geruntur, nostrīs omnibus occupātīs quī erant in agrīs reliquī discessērunt. Secūtae sunt continuōs complūrēs diēs tempestātēs, quae et nostrōs in castrīs continērent et hostem ā pugnā prohibērent. Interim barbarī nūntiōs in omnēs partēs dīmīsērunt paucitātemque nostrōrum mīlitum suīs praedicāvērunt et quantā praedae faciendae atque in perpetuum suī līberandī facultās darētur, sī Rōmānōs castrīs expulissent, dēmōnstrāvērunt. Hīs rēbus celeriter magnā multitūdine peditātus equitātusque coācta ad castra vēnērunt."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6422,6 +6428,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluit: he wanted; 3rd person singular perfect active from volō, velle, voluī, -"/>
                 <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="27959.847133758" OwnPage="65" ItemID="1619231549" PTYPE="4" WIDTH="531" HEIGHT="102.114649681527" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 102.115 L0 102.115 L0 0 Z" copath="M0 0 L531 0 L531 102.115 L0 102.115 L0 0 Z" gXpos="136.0008" gYpos="27959.847133758" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="1We, having been troubled/confused by this things, that is, the novelty of the fight."/>
+                <para PARENT="footnotes"/>
+                <ITEXT CH="2For in fact with his arrival the enemy paused."/>
+                <para PARENT="footnotes"/>
+                <ITEXT CH="3And thinking the time to be strange/bad for provoking the enemy and committing to battle. Note lacessendum and committendum are gerunds. Also note the use of esse because it is an indirect statement."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
