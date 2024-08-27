@@ -176,14 +176,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="29972.1168" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="72" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="30804.12" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="73" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="30804.12" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="74" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1865901125" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="7440978113.04165" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1865901125" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="7450921383.28486" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1865881125" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="451339741.0008" gYpos="7440978113.04165" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1865881125" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="451735093.0008" gYpos="7450921383.28486" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -6488,7 +6488,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" est aliter ac superiōribus annīs exercitum in hībernīs collocāre legiōnēsque in plūrēs cīvitātēs distribuere. Ex quibus ūnam in Morinōs dūcendam"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" Gāiō Fabiō lēgātō dēdit, alteram in Nerviōs Quīntō Cicerōnī, tertiam in Esubiōs Lūciō Rōsciō; quārtam in Rēmīs cum Titō Labiēnō in cōnfīniō Trēverōrum hiemāre iussit. Trēs in Belgīs collocāvit: eīs Mārcum Crassum quaestōrem et Lūcium Munātium Plancum et Gāium Trebōnium lēgātōs praefēcit. "/>
+                <ITEXT CH=" Gāiō Fabiō lēgātō dēdit, alteram in Nerviōs Quīntō Cicerōnī"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=", tertiam in Esubiōs Lūciō Rōsciō; quārtam in Rēmīs cum Titō Labiēnō in cōnfīniō Trēverōrum hiemāre iussit. Trēs in Belgīs collocāvit: eīs Mārcum Crassum quaestōrem et Lūcium Munātium Plancum et Gāium Trebōnium lēgātōs praefēcit. "/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6531,9 +6533,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annō: year; singular masculine dative from annus, annī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="belgīs: a specific Gallic people-group; plural masculine  from Belga, Belgae"/>
+                <ITEXT CH="Belgīs: a specific Gallic people-group; plural masculine  from Belga, Belgae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cicerōnī: Cicerō (dative case)"/>
+                <ITEXT CH="Cicerōnī: Cicerō (dative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cīvitātēs: citizens, city-states; plural feminine nominative from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
@@ -6543,11 +6545,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="collocāvit: he put together; 3rd person singular perfect active from collocō, collocāre, collocāvī, collocātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="conciliō: I win; 1st person singular present active from conciliō, conciliāre, conciliāvī, conciliātus"/>
+                <ITEXT CH="conciliō: a councile, singular neuter ablative from concilium, conciliī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnfīniō: border; singular neuter dative from confinium, confini(i)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="crassum: fat; singular neuter nominative from crassus, crassa -um, crassior -or -us, crassissimus -a -um"/>
+                <ITEXT CH="Crassum: Crassus, a Roman family name"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -6555,7 +6557,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="distribuere: to distribute;  person  present active from distribuō, distribuere, distribuī, distribūtus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dūcendam: leading; singular feminine accusative future passive participle from dūcō, dūcere, dūxī, ductus"/>
+                <ITEXT CH="dūcendam: to be lead; singular feminine accusative future passive participle from dūcō, dūcere, dūxī, ductus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eīs: to them; plural dative or ablative from is, ea, id"/>
                 <para PARENT="Vocab"/>
@@ -6573,13 +6575,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frūmentum: corn, grain; singular neuter nominative from frūmentum, frūmentī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gaio: Gaius (Roman praenomen); (abb. C.); singular masculine dative from Gaius, Gai"/>
+                <ITEXT CH="Gāiō: Gaius (Roman praenomen); (abb. C.); singular masculine dative from Gaius, Gai"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gaium: Gaius (Roman praenomen); (abb. C.); singular masculine accusative from Gaius, Gai"/>
+                <ITEXT CH="Gāium: Gaius (Roman praenomen); (abb. C.); singular masculine accusative from Gaius, Gai"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gallia: Gaul; singular feminine nominative from Gallia, Galliae"/>
+                <ITEXT CH="Galliā: Gaul; singular feminine ablative from Gallia, Galliae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gallōrum: of chickens, of roosters; plural masculine genitive from Gallus, Galli"/>
+                <ITEXT CH="Gallōrum: of the Gauls, plural feminine genitive from Gallia, Galliae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hībernīs: winter camp; plural  dative from hibernus, hiberna, hibernum"/>
                 <para PARENT="Vocab"/>
@@ -6589,7 +6591,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iussit: he commanded; infinitive"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="labium, labi(i): lip; flange;    from labium, labi(i)"/>
+                <ITEXT CH="Labiēnō: Labiēnus, a Roman family name"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lēgātō: legate, ambassador; 2nd person singular future active imperative from leg.ato"/>
                 <para PARENT="Vocab"/>
@@ -6597,11 +6599,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="legiōnēs: legions; plural feminine nominative from legiō, legiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūciō: fish, pike fish; singular masculine dative from Lucius, Luci"/>
+                <ITEXT CH="Lūciō: Lūcius, a Roman name"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūcium: fish, pike fish; plural feminine genitive from lūx, lūcis"/>
+                <ITEXT CH="Lūcium: Lūcius, a Roman Name"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="marcum: mark; (German gold/silver weight, coin); (11th century = ~8 ounces, later ~1); plural feminine genitive from marca, marcae"/>
+                <ITEXT CH="Mārcum: Marcus, a Roman name, accusative case"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="morinos: delay, hindrance, obstacle; pause; plural masculine accusative from mora, morae"/>
                 <para PARENT="Vocab"/>
@@ -6609,11 +6611,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvibus: boats; plural feminine  from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nervios: Nervii (pl.); Belgic (north Gallic) tribe; plural masculine accusative from Nervius, Nervii"/>
+                <ITEXT CH="Nerviōs: Nervii (pl.); Belgic (north Gallic) tribe; plural masculine accusative from Nervius, Nervii"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="perāctō: being carried through; singular masculine dative perfect passive participle from peragō, peragere, perēgī, perāctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="plancum: eagle; singular masculine accusative from Plancus, Planci"/>
+                <ITEXT CH="Plancum: Plancus, a Roman family name"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="plūrēs: more; plural common nominative from plus, (gen.), pluris"/>
                 <para PARENT="Vocab"/>
@@ -6633,7 +6635,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rēmīs: oars; plural masculine  from rēmus, rēmī"/>
+                <ITEXT CH="Rēmīs: A tribe of Gallia Belgica"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Rōsciō: Rōscius, a Roman family name"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Samarobrīvae: In Samarobrīva, a Gallic city (locative case)"/>
                 <para PARENT="Vocab"/>
@@ -6645,17 +6649,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tertiam: third; singular feminine accusative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tito: Titus; Roman praenomen, abb. T.; (~ Flavius Vespasianus, Emperor, 79-81 AD); singular masculine dative from Titus, Titi"/>
+                <ITEXT CH="Titō: Titus; Roman praenomen"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Trebōnium: Trebōnius, a Roman family name"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="treverorum: Treveri, German tribe around Trier (Treves); plural masculine genitive from Treverus, Treveri"/>
+                <ITEXT CH="Treverorum: Treveri, German tribe around Trier (Treves); plural masculine genitive from Treverus, Treverī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnam: one; singular feminine accusative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Roscio&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Trebonium&quot;, :part-of-speech :unknown}"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6667,10 +6669,14 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="He was forced to station his legions otherwise than (he had done) the previous year in winter."/>
+                <ITEXT CH=" coactus + est is past passive participle construction."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Of which one he gave to (his) lieutenant Gaius Fabius to be lead into (the land of the) Morini."/>
                 <ITEXT CH=" Note that dūcendam &quot;to be lead&quot; is an accusative gerundive."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH="Quintus was the younger brother of the famous orator."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
