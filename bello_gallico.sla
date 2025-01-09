@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="36628.1424" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="88" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="89" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="90" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="20215047723.8744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="20475106964.0985" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="893715985.0008" gYpos="20215047723.8744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="902217889.0008" gYpos="20475106964.0985" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -1503,7 +1503,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="2571.57324840764" OwnPage="5" ItemID="1878634836" PTYPE="4" WIDTH="531" HEIGHT="678.726114649682" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 678.726 L0 678.726 L0 0 Z" copath="M0 0 L531 0 L531 678.726 L0 678.726 L0 0 Z" gXpos="136.0008" gYpos="2571.57324840764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="2571.57324840764" OwnPage="5" ItemID="1878634836" PTYPE="4" WIDTH="531" HEIGHT="543.229299363061" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 543.229 L0 543.229 L0 0 Z" copath="M0 0 L531 0 L531 543.229 L0 543.229 L0 0 Z" gXpos="136.0008" gYpos="2571.57324840764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -1512,19 +1512,20 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Apud Helvētiōs erat vir cuius nōmen erat Orgetorix. Orgetorix habet multam pecūniam. Orgetorix vult habēre rēgnum. Orgetorix vult esse rēx. Ergō, Orgetorix fēcit coniūrātiōnem nōbilitātis. Orgetorix persuāsit cīvitātī ut exīrent dē fīnibus suīs cum omnibus cōpiīs."/>
-                <para PARENT="Latin"/>
+                <ITEXT CH="Apud Helvētiōs erat vir cuius nōmen erat Orgetorix. Orgetorix habēbat multam pecūniam. Orgetorix voluit habēre rēgnum. Orgetorix voluit esse rēx. Ergō, Orgetorix fēcit coniūrātiōnem nōbilitātis. Orgetorix persuāsit cīvitātī"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" ut exīrent dē fīnibus suīs cum omnibus cōpiīs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Helvētiī erant valdē fortēs, et volēbant pugnāre. Sed Helvētiī nōn potuērunt pugnāre frequenter. Cūr? Helvētiī vīvēbant in locō ubi terrā erat difficilis: erat flūmen Rhēnus, et mōns Iūrā, et lacus Lemannus, et flūmen Rhodanus. Ergō, Helvētiī nōn potuērunt pugnāre frequenter."/>
-                <para PARENT="Latin"/>
+                <ITEXT CH="Helvētiī erant valdē fortēs, et volēbant pugnāre. Sed Helvētiī nōn potuērunt pugnāre frequenter. Cūr? Helvētiī vīvēbant in locō ubi terrā erat difficilis: erat flūmen Rhēnus, et mōns Iūrā, et Lacus Lemannus, et flūmen Rhodanus. Ergō, Helvētiī nōn potuērunt pugnāre frequenter."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Tunc Helvētiī praeparāvērunt. Coēmērunt maximum numerum iūmentōrum et carrōrum. Sēmināvērunt multum frūmentum. Helvētiī praeparāvērunt duōbus annīs. Voluērunt incipere tertiō annō."/>
                 <para PARENT="Latin"/>
-                <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Orgetorix suscipit lēgātiōnem ad cīvitātis. Erat vir cuius nōmen erat Casticō. Casticō erat dē Sēquanō. Pater eius, Catamantaloedis, rēgnābat. Catamantaloedīs et Senātus Rōmānus erant amīcī. Sed Orgetorix persuāsit Casticō ut rēgnum in cīvitāte suā occupāret. Quoque erat vir cuius nōmen erat Dumnorix. Dumnorix erat dē Haeduō. Orgetorix persuāsit Dumnorix ut iungeret coniūrātiōnem."/>
+                <ITEXT CH="Orgetorix suscipit lēgātiōnem ad cīvitātis. Erat vir cuius nōmen erat Casticus. Casticus erat dē Sēquanō. Pater eius, Catamantaloedis, rēgnābat. Catamantaloedīs et Senātus Rōmānus erant amīcī. Sed Orgetorix persuāsit Casticō"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" ut rēgnum in cīvitāte suā occupāret. Quoque erat vir cuius nōmen erat Dumnorix. Dumnorix erat dē Haeduō. Orgetorix persuāsit Dumnorix ut iungeret coniūrātiōnem."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1548,13 +1549,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="apud: at, by, near"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carrōrum: of four-wheeled wagons;    from carr.orum"/>
+                <ITEXT CH="carrōrum: of four-wheeled wagons; plural genitive masculine from carrus, carrī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Casticō: a nobleman of the Sequani (accusative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Casticus: a nobleman of the Sequani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Catamantaloedis: Catamantaledes (one of the Sequani)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cīvitāte: citizens, city-state; singular feminine  from cīvitās, cīvitātis"/>
+                <ITEXT CH="cīvitāte: citizens, city-state; singular feminine ablative from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cīvitātī: citizens, city-state; singular feminine  from cīvitās, cīvitātis"/>
+                <ITEXT CH="cīvitātī: citizens, city-state; singular feminine dative from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cīvitātis: citizens, city-state; singular feminine genitive from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
@@ -1590,7 +1595,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exīrent: they (might) go out; 3rd person plural imperfect active subjunctive from exeō, exīre, exivī(iī), exitus"/>
+                <ITEXT CH="exīrent: they (might) go out; 3rd person plural imperfect active subjunctive from exeō, exīre, exivī, exitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fēcit: he did; 3rd person singular perfect active from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
@@ -1610,9 +1615,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haeduō: a region in Gallia"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiōs: Helvetii, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiōs: Helvetii, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helvetiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
@@ -1620,15 +1625,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iūmentōrum: of baggage animals; plural neuter genitive from jumentum, jumenti"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iungeret: he (might) have joined; 3rd person singular imperfect active subjunctive from jungo, jungere, junxi, junctus"/>
+                <ITEXT CH="iungeret: he (might) have joined; 3rd person singular imperfect active subjunctive from iungo, iungere, iunxi, iunctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iūra: laws, rights, justice; 2nd person singular present active imperative from juro, jurare, juravi, juratus"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="lacus: lake;    from lac.us"/>
+                <ITEXT CH="lacus: lake; singular masculine nominative from lacus, lacūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lēgātiōnem: legate, embassy; singular feminine accusative from lēgātiō, lēgātiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lemannus: Lake Geneva"/>
+                <ITEXT CH="Lemannus: Lake Geneva"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locō: place; singular masculine dative from locus, locī"/>
                 <para PARENT="Vocab"/>
@@ -1674,11 +1677,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēx: king; singular masculine nominative from rēx, rēgis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhēnus: The Rhine; singular masculine nominative from Rhēnus, Rhēnī"/>
+                <ITEXT CH="Rhēnus: The Rhine; singular masculine nominative from Rhēnus, Rhēnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanus: The Rhone; singular masculine nominative from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanus: The Rhone; singular masculine nominative from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rōmānus: Roman; singular masculine nominative from romanus, romana, romanum"/>
+                <ITEXT CH="Rōmānus: Roman; singular masculine nominative from romanus, romana, romanum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
@@ -1686,7 +1689,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="senātus: senate; singular masculine nominative from senātus, senātūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēquanō: Members of a Gallic tribe; singular masculine dative from Sequanus, Sequani"/>
+                <ITEXT CH="Sēquanō: Members of a Gallic tribe; singular masculine dative from Sequanus, Sequani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sua: her/its; sing. fem. nom. or abl. or neuter nom. or acc. from suus"/>
                 <para PARENT="Vocab"/>
@@ -9373,6 +9376,14 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="utram: either; singular feminine accusative from uter, utra, utrum"/>
                 <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3116.63694267516" OwnPage="5" ItemID="2042858084" PTYPE="4" WIDTH="531" HEIGHT="43.1082802547771" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 43.1083 L0 43.1083 L0 0 Z" copath="M0 0 L531 0 L531 43.1083 L0 43.1083 L0 0 Z" gXpos="136.0008" gYpos="3116.63694267516" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="Persuāsit uses the dative instead of the accusative."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
