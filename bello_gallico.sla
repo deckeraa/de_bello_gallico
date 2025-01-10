@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="36628.1424" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="88" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="89" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="90" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="20475106964.0985" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="20633553653.5065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="902217889.0008" gYpos="20475106964.0985" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="907397857.0008" gYpos="20633553653.5065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -849,7 +849,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", M. Pīsōne cōnsulibus rēgnī cupiditāte inductus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" coniūrātiōnem nōbilitātis fēcit et cīvitātī persuāsit ut dē fīnibus suīs cum omnibus cōpiīs exīrent: [dīcens] perfacile esse, cum virtūte omnibus praestārent, tōtīus Galliae imperiō potīrī. Id hoc facilius eīs persuāsit, quod undique locī nātūra Helvētiī continentur: ūna ex parte flūmine Rhēnō lātissimō atque altissimō, quī agrum Helvētium ā Germānīs dīvidit; altera ex parte monte Iūrā altissimō, quī est inter Sēquanōs et Helvētiōs; tertia lacū Lemannō et flūmine Rhodanō, quī prōvinciam nostram ab Helvētiīs dīvidit."/>
+                <ITEXT CH=" coniūrātiōnem nōbilitātis fēcit et cīvitātī"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" persuāsit ut dē fīnibus suīs cum omnibus cōpiīs exīrent: dīcens perfacile esse, cum virtūte omnibus praestārent, tōtīus Galliae imperiō potīrī. Id hoc facilius eīs persuāsit, quod undique locī nātūrā Helvētiī continentur: ūna ex parte flūmine Rhēnō lātissimō atque altissimō, quī agrum Helvētium ā Germānīs dīvidit; altera ex parte monte Iūrā altissimō, quī est inter Sēquanōs et Helvētiōs; tertia Lacū Lemannō et flūmine Rhodanō, quī prōvinciam nostram ab Helvētiīs dīvidit."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -885,13 +887,17 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="14546.1785273885" OwnPage="33" ItemID="1871003748" PTYPE="4" WIDTH="531" HEIGHT="188.942675159235" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 188.943 L0 188.943 L0 0 Z" copath="M0 0 L531 0 L531 188.943 L0 188.943 L0 0 Z" gXpos="136.0008" gYpos="14546.1785273885" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="14546.1785273885" OwnPage="33" ItemID="1871003748" PTYPE="4" WIDTH="531" HEIGHT="86.7896254777443" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 86.7896 L0 86.7896 L0 0 Z" copath="M0 0 L531 0 L531 86.7896 L0 86.7896 L0 0 Z" gXpos="136.0008" gYpos="14546.1785273885" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH="Marcus Messala and Marcus Piso were the consuls in 61 B.C. They are mentioned here because the Romans would often indicate the year by stating who was consul. Note that they are mentioned in an ablative absolute."/>
                 <para PARENT="footnotes"/>
-                <ITEXT CH="2Easier order and with helper words: In tempore M. Messāla et M. Pīsōne cōnsulibus, is, inductus cupiditāte rēgnī, fēcit coniūrātiōnem nōbilitātis et persuāsit cīvitātī ut exīrent dē fīnibus suīs cum omnibus cōpiīs."/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="Easier order and with helper words: In tempore M. Messāla et M. Pīsōne cōnsulibus, is, inductus cupiditāte rēgnī, fēcit coniūrātiōnem nōbilitātis et persuāsit cīvitātī ut exīrent dē fīnibus suīs cum omnibus cōpiīs."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="Persuāsit takes the dative instead of the accusative."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -912,7 +918,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="atque: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cīvitātī: citizens, city-state; singular feminine  from cīvitās, cīvitātis"/>
+                <ITEXT CH="cīvitātī: citizens, city-state; singular feminine dative from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coniūrātiōnem: conspiracy; singular feminine accusative from conjuratio, conjurationis"/>
                 <para PARENT="Vocab"/>
@@ -956,15 +962,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="galliae: Gaul; singular feminine genitive from Gallia, Galliae"/>
+                <ITEXT CH="Galliae: Gaul; singular feminine genitive from Gallia, Galliae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="germānīs: Germans"/>
+                <ITEXT CH="Germānīs: Germans"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiīs: Helvetii, members of a Gallic tribe (plural dat. or abl.); plural feminine  from Helvetia, Helvetiae"/>
+                <ITEXT CH="Helvētiīs: Helvetii, members of a Gallic tribe (plural dat. or abl.); plural feminine  from Helvetia, Helvetiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiōs: Helvetii, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiōs: Helvetii, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helvetii"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="helvētium: Helvetii, members of a Gallic tribe (plural genitive); plural feminine genitive from Helvetia, Helvetiae"/>
                 <para PARENT="Vocab"/>
@@ -986,15 +992,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lātissimō: very wide; singular masculine dative from latus, lata -um, latior -or -us, latissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lemanno: Lake Geneva - in Caesar's &quot;Gallic War&quot;; singular masculine dative from Lemannus, Lemanni"/>
+                <ITEXT CH="Lemannō: Lake Geneva - in Caesar's &quot;Gallic War&quot;; singular masculine dative from Lemannus, Lemanni"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locī: place; singular masculine genitive from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="longē: long, by far; adverb from longus, longa -um, longior -or -us, longissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="m: Manius (Roman praenomen); (abb. M'.); Marcus (Roman praenomen); (abb. M.); (also) maximus, mille, milia, municipium;  masculine  from M., abb."/>
+                <ITEXT CH="M: Manius (Roman praenomen); (abb. M'.); Marcus (Roman praenomen); (abb. M.); (also) maximus, mille, milia, municipium;  masculine  from M., abb."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="messala: Marcus Messala, consul of Rome in 61 B.C."/>
+                <ITEXT CH="Messala: Marcus Messala, consul of Rome in 61 B.C."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monte: mountain; singular masculine  from mōns, montis"/>
                 <para PARENT="Vocab"/>
@@ -1030,11 +1036,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēgnī: of the kingdom; singular neuter genitive from rēgnum, rēgnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhēnō: The Rhine; singular masculine dative from Rhēnus, Rhēnī"/>
+                <ITEXT CH="Rhēnō: The Rhine; singular masculine dative from Rhēnus, Rhēnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanō: The Rhone; singular masculine dative from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanō: The Rhone; singular masculine dative from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēquanōs: Members of a Gallic tribe; plural masculine accusative from Sequanus, Sequani"/>
+                <ITEXT CH="Sēquanōs: Members of a Gallic tribe; plural masculine accusative from Sequanus, Sequani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suis: their; plural dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
