@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="36628.1424" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="88" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="89" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="90" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="20823000782.1466" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="21262173671.2667" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="913591297.0008" gYpos="20823000782.1466" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="927948817.0008" gYpos="21262173671.2667" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -399,7 +399,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aquītānia: Aquitaniae, a province in western France; singular feminine nominative from Aquītānia, Aquītāniae"/>
+                <ITEXT CH="Aquītānia: Aquitaniae, a province in western France; singular feminine nominative from Aquītānia, Aquītāniae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="attingit: it touches, it borders; 3rd person singular present active from attingō, attingere, attigī, attāctus"/>
                 <para PARENT="Vocab"/>
@@ -451,9 +451,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flūminis: river; singular neuter genitive from flūmen, flūminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="galliae: Gaul; singular feminine genitive from Gallia, Galliae"/>
+                <ITEXT CH="Galliae: Gaul; singular feminine genitive from Gallia, Galliae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gallōs: Gauls; plural masculine accusative from Gallus, Galli"/>
+                <ITEXT CH="Gallōs: Gauls; plural masculine accusative from Gallus, Galli"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Garumna: The Garonne, a river running in modern-day France and Spain"/>
                 <para PARENT="Vocab"/>
@@ -461,11 +461,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gerunt: they bear, they carry, they govern; 3rd person plural present active from gerō, gerere, gessī, gestus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiī: Helvetii, members of a Gallic tribe; singular masculine genitive from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiī: Helvetii, members of a Gallic tribe; singular masculine genitive from Helvetius, Helvetii"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiīs: Helvetii, members of a Gallic tribe; plural feminine  from Helvetia, Helvetiae"/>
+                <ITEXT CH="Helvētiīs: Helvetii, members of a Gallic tribe; plural feminine  from Helvetia, Helvetiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hispāniam: Hispania; singular feminine accusative from Hispānia, Hispāniae"/>
+                <ITEXT CH="Hispāniam: Hispania; singular feminine accusative from Hispānia, Hispāniae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
@@ -505,7 +505,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prohibent: they prevent, they restrain; 3rd person plural present active from prohibeō, prohibēre, prohibuī, prohibitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pyrenaeos: Pyrenees (w/montes); plural masculine accusative from Pyrenaeus, Pyrenaea, Pyrenaeum"/>
+                <ITEXT CH="Pyrenaeos: Pyrenees (w/montes); plural masculine accusative from Pyrenaeus, Pyrenaea, Pyrenaeum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quā: what; singular female ablative of qui"/>
                 <para PARENT="Vocab"/>
@@ -519,17 +519,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reliquōs: remaining; plural masculine accusative from reliquus, reliqua, reliquum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhēnī: The Rhine; singular masculine genitive from Rhēnus, Rhēnī"/>
+                <ITEXT CH="Rhēnī: The Rhine; singular masculine genitive from Rhēnus, Rhēnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhēnum: The Rhine; singular masculine accusative from Rhēnus, Rhēnī"/>
+                <ITEXT CH="Rhēnum: The Rhine; singular masculine accusative from Rhēnus, Rhēnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanō: The Rhone; singular masculine dative from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanō: The Rhone; singular masculine dative from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="septentriōnem: north; singular masculine accusative from septentriō, septentriōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="septentriōnēs: north; plural masculine nominative from septentriō, septentriōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sequanis: Seine, river in N Cen. Gaul - in Caesar's &quot;Gallic War&quot;; plural masculine  from Sequana, Sequanae"/>
+                <ITEXT CH="Sequanis: Seine, river in N Cen. Gaul - in Caesar's &quot;Gallic War&quot;; plural masculine  from Sequana, Sequanae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sōlem: sun; singular masculine accusative from sōl, sōlis"/>
                 <para PARENT="Vocab"/>
@@ -590,46 +590,23 @@
         <PAGEOBJECT XPOS="136.0008" YPOS="1352.86624203822" OwnPage="1" ItemID="1838068388" PTYPE="4" WIDTH="531" HEIGHT="236.636942675159" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 236.637 L0 236.637 L0 0 Z" copath="M0 0 L531 0 L531 236.637 L0 236.637 L0 0 Z" gXpos="136.0008" gYpos="1352.86624203822" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Galliā habet trēs partēs."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Belgae incolunt (vīvunt) in ūnā parte, Aquītānī incolunt in aliā parte, et Gallī incolunt in tertiā parte."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Gallī appellantur Celtae in linguā eōrum."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Belgae, Aquītānī, et Gallī habent dīversās linguās, īnstitūta, et legēs."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Flūmen, cuius nōmen est Garumna, dīvidit Gallōs ab Aquītānīs."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Flūmina, quōrum nōmina sunt Matrona et Sēquana, dīvidunt Gallōs ab Belgīs."/>
+                <tab/>
+                <ITEXT CH="Galliā habet trēs partēs. Belgae incolunt (vīvunt) in ūnā parte, Aquītānī incolunt in aliā parte, et Gallī incolunt in tertiā parte. Gallī appellantur Celtae in linguā eōrum. Belgae, Aquītānī, et Gallī habent dīversās linguās, īnstitūta, et legēs. Flūmen, cuius nōmen est Garumna, dīvidit Gallōs ab Aquītānīs. Flūmina, quōrum nōmina sunt Matrona et Sēquana, dīvidunt Gallōs ab Belgīs."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="1739.00636942675" OwnPage="3" ItemID="1838403716" PTYPE="4" WIDTH="531" HEIGHT="384.305732484076" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 384.306 L0 384.306 L0 0 Z" copath="M0 0 L531 0 L531 384.306 L0 384.306 L0 0 Z" gXpos="136.0008" gYpos="1739.00636942675" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="1739.00636942675" OwnPage="3" ItemID="1838403716" PTYPE="4" WIDTH="531" HEIGHT="299.006369426753" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 299.006 L0 299.006 L0 0 Z" copath="M0 0 L531 0 L531 299.006 L0 299.006 L0 0 Z" gXpos="136.0008" gYpos="1739.00636942675" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Belgae sunt fortiōrēs quam Gallī et Aquītānī."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Prōvinciae Belgārum sunt longissimē ā cultū."/>
+                <tab/>
+                <ITEXT CH="Belgae sunt fortiōrēs quam Gallī et Aquītānī. Prōvinciae Belgārum sunt longissimē ā cultū. Mercātōrēs nōn saepe important rēs ad Belgās. Germānī incolunt prope Belgās. Belgae et Germānī saepe gerunt bellum."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Mercātōrēs nōn saepe important rēs ad Belgās."/>
+                <tab/>
+                <ITEXT CH="Helvētiī quoque sunt fortiōrēs quam reliquī Gallī. Helvētiī gerunt bellum contrā Germānōs cottīdiē."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Germānī incolunt prope Belgās."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Belgae et Germānī saepe gerunt bellum."/>
-                <para PARENT="Latin"/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Helvētiī quoque sunt fortiōrēs quam reliquī Gallī."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Helvētiī gerunt bellum contrā Germānōs cottīdiē."/>
-                <para PARENT="Latin"/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Galliā est inter Rhodanum, Garumnam, Ōceanum, et fīnēs Belgārum."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Galliā quoque attingit flūmen Rhēnum, quī dīvidit Gallī ab Sēquanīs et Helvētiīs."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Belgae sunt in septentriōnem et orientem sōlem."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Aquītānī sunt inter occāsum sōlis et septentriōnēs."/>
+                <tab/>
+                <ITEXT CH="Galliā est inter Rhodanum, Garumnam, Ōceanum, et fīnēs Belgārum. Galliā quoque attingit flūmen Rhēnum, quī dīvidit Gallī ab Sēquanīs et Helvētiīs. Belgae sunt in septentriōnem et orientem sōlem. Aquītānī sunt inter occāsum sōlis et septentriōnēs."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1806,9 +1783,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbat: he had; 3rd person singular imperfect active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiīs: Helvetii, members of a Gallic tribe (plural dat. or abl.); plural feminine  from Helvetia, Helvetiae"/>
+                <ITEXT CH="Helvētiīs: Helvetii, members of a Gallic tribe (plural dat. or abl.); plural feminine  from Helvetia, Helvetiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hominum: of persons, of men; plural masculine genitive from homō, hominis"/>
                 <para PARENT="Vocab"/>
@@ -1820,7 +1797,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ipse: itself; singular masculine nominative from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iūdicium: judgement; plural masculine genitive from judex, judicis"/>
+                <ITEXT CH="iūdicium: judgement; plural masculine genitive from iūdex, iūdicis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iūs: law, right, justice; singular neuter accusative from iūs, iūris"/>
                 <para PARENT="Vocab"/>
@@ -1856,7 +1833,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Orgetoricem: Orgetorix, a Helvetic aristocrat (accusative case)."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="orgetorīx: Orgetorix, a Helvetic aristocrat."/>
+                <ITEXT CH="Orgetorīx: Orgetorix, a Helvetic aristocrat."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -1901,13 +1878,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="adscīscunt: they admit, approve, associate; 3rd person plural present active from adscisco, adsciscere, adscivi, adscitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aedificia: buildings; plural neuter nominative from aedificium, aedifici(i)"/>
+                <ITEXT CH="aedificia: buildings; plural neuter nominative from aedificium, aedificiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="agrum: field; singular masculine accusative from ager, agrī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="arbitrātī: arbitrātī + sunt = were decided. Plural nominative past passive participle from arbitrārī."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="boiōs: the Boii, who live across the Rhine from the Helvetii"/>
+                <ITEXT CH="Boiōs: the Boii, who live across the Rhine from the Helvetii"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cibāria: food, fodder; plural neuter nominative from cibarium, cibari(i)"/>
                 <para PARENT="Vocab"/>
@@ -1915,7 +1892,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnantur: they attempt; 3rd person plural present from cōnārī, which is deponent, so the mood is active"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsiliō: plan, advice, council; singular neuter dative from consilium, consili(i)"/>
+                <ITEXT CH="cōnsiliō: plan, advice, council; singular neuter dative from consilium, consiliī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnstituerant: they had planned; 3rd person plural pluperfect active from cōnstituō, cōnstituere, cōnstituī, cōnstitūtus"/>
                 <para PARENT="Vocab"/>
@@ -1951,7 +1928,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frūmentum: corn, grain; singular neuter nominative from frūmentum, frūmentī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iam: already, now, soon"/>
                 <para PARENT="Vocab"/>
@@ -1967,7 +1944,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iubent: they command; 3rd person plural present active from jubeo, jubere, jussi, jussus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Latobrigīs: Latobrigi, neighbors to the Helvetii"/>
+                <ITEXT CH="Latobrigīs: Latobrigi, neighbors to the Helveti"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mēnsum: of months; singular neuter nominative perfect participle from mens.um"/>
                 <para PARENT="Vocab"/>
@@ -2021,7 +1998,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Rauracīs: Rauraci, neighbors to the Helvetii"/>
+                <ITEXT CH="Rauracīs: Rauraci, neighbors to the Helveti"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="receptōs: having been received; plural masculine accusative perfect passive participle from recipiō, recipere, recēpī, receptus"/>
                 <para PARENT="Vocab"/>
@@ -2031,7 +2008,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rem: thing; singular feminine accusative from rēs, reī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhēnum: The Rhine; singular masculine accusative from Rhēnus, Rhēnī"/>
+                <ITEXT CH="Rhēnum: The Rhine; singular masculine accusative from Rhēnus, Rhēnī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="se: himself"/>
                 <para PARENT="Vocab"/>
@@ -3856,7 +3833,7 @@
                 <ITEXT CH="According to their customs."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The condemned must follow (their) penalty, that he be burned alive."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The condemned must follow (their) penalty, that he be burned with fire."/>
                 <ITEXT CH=" English-like word order: damnātum oportēbat sequī poenam."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
