@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="36628.1424" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="88" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="89" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="90" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="21656568148.1629" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="21808986974.3869" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="940842433.0008" gYpos="21656568148.1629" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="945825337.0008" gYpos="21808986974.3869" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -2123,9 +2123,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="allobrogibus: Allobrogi, A Gaulish tribe (dative or ablative case)"/>
+                <ITEXT CH="Allobrogibus: Allobrogi, A Gaulish tribe (dative or ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="allobrogum: Of the Allobrogi, A Gaulish tribe (plural genitive case)"/>
+                <ITEXT CH="Allobrogum: Of the Allobrogi, A Gaulish tribe (plural genitive case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="alterum: the other; singular neuter nominative from alter, altera, alterum"/>
                 <para PARENT="Vocab"/>
@@ -2143,7 +2143,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bonō: good; singular neuter dative from bonum, boni"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carrī: four-wheeled wagon; singular masculine genitive from carrum, carrī"/>
+                <ITEXT CH="carrī: four-wheeled wagon; singular masculine genitive from carrus, carrī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coāctūrōs: to be assembled, to be forced; plural masculine accusative future participle from cōgō, cōgere, coēgī, coāctus"/>
                 <para PARENT="Vocab"/>
@@ -2203,13 +2203,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flūmen: river; singular neuter nominative from flūmen, flūminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gabīniō: Aulus Gabinius, consul in 58 BC"/>
+                <ITEXT CH="Gabīniō: Aulus Gabinius, consul in 58 BC"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="genāva: Geneva, a city in Gaul; singular feminine nominative from Genava, Genavae"/>
+                <ITEXT CH="Genāva: Geneva, a city in Gaul; singular feminine nominative from Genava, Genavae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiōrum: Helvetii, members of a Gallic tribe (plural genitive); plural masculine genitive from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiōrum: Helveti, members of a Gallic tribe (plural genitive); plural masculine genitive from Helvetius, Helveti"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiōs: Helvetii, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiōs: Helveti, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helveti"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="impendēbat: they were expending; 3rd person singular imperfect active from impendeo, impendere, -, -"/>
                 <para PARENT="Vocab"/>
@@ -2231,9 +2231,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="kal: Abbreviation for kalendae, the first day of the month"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="l: Lucius (Roman praenomen); (abb. L.);  masculine  from L., abb."/>
+                <ITEXT CH="L: Lucius (Roman praenomen); (abb. L.);  masculine  from L., abb."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="locīs: places; plural masculine  from locus, locī"/>
+                <ITEXT CH="locīs: places; plural masculine ablative from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mōns: mountain; singular masculine nominative from mōns, montis"/>
                 <para PARENT="Vocab"/>
@@ -2273,7 +2273,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pertinet: it pertains; 3rd person singular present active from pertineō, pertinēre, pertinuī, pertentus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pīsōne: Lucius Piso, consul in 58 BC"/>
+                <ITEXT CH="Pīsōne: Lucius Piso, consul in 58 BC"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pōns: bridge; singular masculine nominative from pōns, pontis"/>
                 <para PARENT="Vocab"/>
@@ -2301,17 +2301,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēbus: things; plural feminine dative from rēs, reī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanī: The Rhone; singular masculine genitive from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanī: The Rhone; singular masculine genitive from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanum: The Rhone; singular masculine accusative from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanum: The Rhone; singular masculine accusative from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanus: The Rhone; singular masculine nominative from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanus: The Rhone; singular masculine nominative from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rīpam: bank, shore; singular feminine accusative from rīpa, rīpae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rōmānum: Roman; singular neuter nominative from romanus, romana, romanum"/>
+                <ITEXT CH="Rōmānum: Roman; singular neuter nominative from romanus, romana, romanum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēquanōs: Members of a Gallic tribe; plural masculine accusative from Sequanus, Sequani"/>
+                <ITEXT CH="Sēquanōs: Members of a Gallic tribe; plural masculine accusative from Sequanus, Sequani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēsē: himself"/>
                 <para PARENT="Vocab"/>
@@ -2319,7 +2319,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suōs: their; plural accusative of suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsītur: being crossed; 3rd person singular present passive from trānseō, trānsīre, trānsivi(iī), trānsitus"/>
+                <ITEXT CH="trānsītur: being crossed; 3rd person singular present passive from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnum: one; singular neuter nominative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
                 <para PARENT="Vocab"/>
@@ -4472,7 +4472,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Through which wagons could scarcely be led one at a time."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH="The Rhone flows and it is crossed in some places by forces. isque = and it, nōn nūllīs  = some"/>
+                <ITEXT CH="The Rhone flows and it is crossed in some places by shallows. isque = and it, nōn nūllīs  = some"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Geneva is the furthes-away Allobrogan city and is next to the borders of the Helvetii"/>
