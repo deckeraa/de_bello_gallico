@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="36628.1424" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="88" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="89" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="90" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="21579067050.0828" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="21656568148.1629" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="938308753.0008" gYpos="21579067050.0828" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="940842433.0008" gYpos="21656568148.1629" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -5226,10 +5226,10 @@
                 <ITEXT CH="Iter per prōvinciam nostram erat facilius et expedītius. Allobrōgēs vīvunt in hanc prōvinciam. Rhodanus fluit per prōvinciam, et erat pōns super Rhodanus. Ubi erat hic pōns? Hic pōns erat in oppidō cuius nōmen erat Genāva."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Helvētiī cōnstituērunt persuādēre Allobrogēs ut paterentur eōs per suōs fīnēs. Sī Allobrogēs nōn paterentur Helvētiōs trānsīre per fīnēs, Helvētiī pugnārent eōs."/>
+                <ITEXT CH="Helvētiī cōnstituērunt persuādēre Allobrogēs ut paterentur eōs per suōs fīnēs. Sī Allobrogēs nōn paterentur Helvētiōs trānsīre per fīnēs, Helvētiī pugnārent contra eōs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Quōdam diē, Helvētiī īvērunt ad rīpam Rhodanī, in oppidō Genāva. Tunc Caesar venit ad Genāvā cum exercitū. Caesar dēstrūxit pontem. Caesar nōn voluit Helvētiī trānsīre per prōvinciam nostram. Cūr? Anteā, Helvētiī interfēcerant cōnsulem, cuius nōmen erat L. Cassium. Quoque, Caesar sē cōgitāvit: &quot;Helvētiī volunt pugnāre, et nōn trānsīvērunt per prōvinciam nostram sine iniūriā et maleficiō.&quot; Sed, Caesar habēbat sōlum ūnum legiōnem. Caesar voluit tempus ut exercitūs eius convenīrent. Ergō, Caesar dīxit Helvētiīs: &quot;Revertite post quīndecim diēs.&quot;"/>
+                <ITEXT CH="Quōdam diē, Helvētiī iērunt ad rīpam Rhodanī, in oppidō Genāva. Tunc Caesar venit ad Genāvā cum exercitū. Caesar dēstrūxit pontem. Caesar nōn voluit Helvētiī trānsīre per prōvinciam nostram. Cūr? Anteā, Helvētiī interfēcerant cōnsulem, cuius nōmen erat L. Cassium. Quoque, Caesar sē cōgitāvit: &quot;Helvētiī volunt pugnāre, et nōn trānsīre per prōvinciam nostram sine iniūriā et maleficiō.&quot; Sed, Caesar habēbat sōlum ūnum legiōnem. Caesar voluit tempus ut exercitūs eius convenīrent. Ergō, Caesar dīxit Helvētiīs: &quot;Revertite post quīndecim diēs.&quot;"/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5250,7 +5250,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="carrus: four-wheeled wagon; singular masculine nominative from carrus, carrī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cassium: Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala"/>
+                <ITEXT CH="Cassium: Lucius Cassius Longinus (c. 151 - 107 BC), a consul who was killed at the Battle of Burdigala (accusative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōgitāvit: he thought; 3rd person singular perfect active from cōgitō, cōgitāre, cōgitāvī, cōgitātus"/>
                 <para PARENT="Vocab"/>
@@ -5312,7 +5312,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flūmen: river; singular neuter nominative from flūmen, flūminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="genāva: Geneva, a city in Gaul; singular feminine nominative from Genava, Genavae"/>
+                <ITEXT CH="Genāva: Geneva, a city in Gaul; singular feminine nominative from Genava, Genavae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbant: they had; 3rd person plural imperfect active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -5320,11 +5320,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hanc: this; singular feminine accusative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiī: Helvetii, members of a Gallic tribe (sing. gen. or pl. nom.); singular masculine genitive from Helvetius, Helvetii"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiīs: Helvetii, members of a Gallic tribe (plural dat. or abl.; plural feminine  from Helvetia, Helvetiae"/>
+                <ITEXT CH="Helvētiīs: Helvetii, members of a Gallic tribe (plural dat. or abl.; plural feminine  from Helvetia, Helvetiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="helvētiōs: Helvetii, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helvetii"/>
+                <ITEXT CH="Helvētiōs: Helvetii, members of a Gallic tribe (plural accusative); plural masculine accusative from Helvetius, Helvetii"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -5332,7 +5332,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hostēs: enemies; plural common nominative from hostis, hostis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iērunt: they went; 3rd person plural perfect active from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="iērunt: they went; 3rd person plural perfect active from eo, ire, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
@@ -5398,11 +5398,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="revertite: return!; 2nd person plural present active imperative from reverto, revertere, reverti, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanī: The Rhone; singular masculine genitive from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanī: The Rhone; singular masculine genitive from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanum: The Rhone; singular masculine accusative from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanum: The Rhone; singular masculine accusative from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rhodanus: The Rhone; singular masculine nominative from Rhodanus, Rhodanī"/>
+                <ITEXT CH="Rhodanus: The Rhone; singular masculine nominative from Rhodanus, Rhodanī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rīpam: bank, shore; singular feminine accusative from rīpa, rīpae"/>
                 <para PARENT="Vocab"/>
@@ -5410,7 +5410,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēquanōs: Members of a Gallic tribe; plural masculine accusative from Sequanus, Sequani"/>
+                <ITEXT CH="Sēquanōs: Members of a Gallic tribe; plural masculine accusative from Sequanus, Sequani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sī: if"/>
                 <para PARENT="Vocab"/>
@@ -5426,7 +5426,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsīre: to go over, to cross;  person  present active from trānseō, trānsīre, trānsivi(iī), trānsitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsivērunt: they went over, they crossed over; 3rd person plural perfect active from trānseō, trānsīre, trānsivi(iī), trānsitus"/>
+                <ITEXT CH="trānsivērunt: they went over, they crossed over; 3rd person plural perfect active from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tunc: then"/>
                 <para PARENT="Vocab"/>
