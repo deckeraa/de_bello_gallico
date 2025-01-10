@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="36628.1424" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="88" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="89" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="37460.1456" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="45" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="90" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="20633553653.5065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="758.0016" OwnPage="0" ItemID="1820682212" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.0008" gYpos="20682637682.2905" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="907397857.0008" gYpos="20633553653.5065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="145.0008" YPOS="758.0016" OwnPage="1" ItemID="1849366052" PTYPE="4" WIDTH="531" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 18 L0 18 L0 0 Z" copath="M0 0 L531 0 L531 18 L0 18 L0 0 Z" OnMasterPage="Normal Right" gXpos="909002521.0008" gYpos="20682637682.2905" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -869,13 +869,15 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="15049.7199286624" OwnPage="35" ItemID="1869944436" PTYPE="4" WIDTH="531" HEIGHT="315.33927133758" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 315.339 L0 315.339 L0 0 Z" copath="M0 0 L531 0 L531 315.339 L0 315.339 L0 0 Z" gXpos="136.0008" gYpos="15049.7199286624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="15049.7199286624" OwnPage="35" ItemID="1869944436" PTYPE="4" WIDTH="531" HEIGHT="298.662236942697" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 298.662 L0 298.662 L0 0 Z" copath="M0 0 L531 0 L531 298.662 L0 298.662 L0 0 Z" gXpos="136.0008" gYpos="15049.7199286624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <ITEXT CH="     Hīs rēbus fīēbat ut et minus lātē vagārentur et minus facile fīnitimīs bellum īnferre possent; quā ex parte hominēs bellandī cupidī magnō dolōre adficiēbantur. Prō multitūdine autem hominum et prō glōriā bellī atque fortitūdinis angustōs sē fīnēs habēre arbitrābantur, quī in longitūdinem mīlia passuum CCXL, in lātitūdinem CLXXX patēbant."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="     Hīs rēbus adductī et auctōritāte Orgetorigis permōtī cōnstituērunt ea quae ad proficīscendum pertinērent comparāre, iūmentōrum et carrōrum quam maximum numerum coemere, sēmentēs quam maximās facere, ut in itinere cōpia frūmentī suppeteret, cum proximīs cīvitātibus pācem et amīcitiam cōnfirmāre."/>
+                <ITEXT CH="     Hīs rēbus adductī et auctōritāte Orgetorigis permōtī cōnstituērunt ea"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" quae ad proficīscendum pertinērent comparāre, iūmentōrum et carrōrum quam maximum numerum coemere, sēmentēs quam maximās facere, ut in itinere cōpia frūmentī suppeteret, cum proximīs cīvitātibus pācem et amīcitiam cōnfirmāre."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1085,17 +1087,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bellum: battle, war; singular neuter nominative from bellum, bellī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carrōrum: of four-wheeled wagons;    from carr.orum"/>
+                <ITEXT CH="carrōrum: of four-wheeled wagons; plural masuline genitive from carrus, carrī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="CCXL: 240"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cīvitātibus: citizens, city-states; plural feminine  from cīvitās, cīvitātis"/>
+                <ITEXT CH="cīvitātibus: citizens, city-states; plural feminine ablative from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="CLXXX: 180"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="coemere: to buy;  person  present active from coemō, coemere, coēmī, coēmptus"/>
+                <ITEXT CH="coemere: to buy; present infinitive active from coemō, coemere, coēmī, coēmptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="comparāre: I compare;  person  present active from comparō, comparāre, comparāvī, comparātus"/>
+                <ITEXT CH="comparāre: to compare; present infinitive active from comparō, comparāre, comparāvī, comparātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnfirmāre: to strengthen, to encourage;  person  present active from cōnfirmō, cōnfirmāre, cōnfirmāvī, cōnfirmātus"/>
                 <para PARENT="Vocab"/>
@@ -1145,7 +1147,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="itinere: journey, trip; singular neuter  from iter, itineris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iūmentōrum: of baggage animals; plural neuter genitive from jumentum, jumenti"/>
+                <ITEXT CH="iūmentōrum: of baggage animals; plural neuter genitive from iumentum, iumentī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lātē: widely; adverb from lātus, -a, -um"/>
                 <para PARENT="Vocab"/>
@@ -1167,7 +1169,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="numerum: number, division, troop; singular masculine accusative from numerus, numerī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="orgetorīgis: Orgetorix, a Helvetic aristocrat (genitive case)."/>
+                <ITEXT CH="Orgetorīgis: Orgetorix, a Helvetic aristocrat (genitive case)."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pācem: peace; singular feminine accusative from pāx, pācis"/>
                 <para PARENT="Vocab"/>
@@ -9389,6 +9391,14 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH="Persuāsit uses the dative instead of the accusative."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="15349.2993630573" OwnPage="35" ItemID="2032287604" PTYPE="4" WIDTH="531" HEIGHT="33.7598369426687" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L531 0 L531 33.7598 L0 33.7598 L0 0 Z" copath="M0 0 L531 0 L531 33.7598 L0 33.7598 L0 0 Z" gXpos="136.0008" gYpos="15349.2993630573" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having been lead by these things and having been persuaded by the authority of Orgetroix, they planned that which pertained to preparing to set out."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
